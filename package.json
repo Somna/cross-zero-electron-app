@@ -1,0 +1,8 @@
+{
+  "name": "helloworld",
+  "version": "1.0.1",
+  "main": "main.js",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}

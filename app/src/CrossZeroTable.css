@@ -1,0 +1,10 @@
+.CrossZeroTable {
+  width: 110px;
+  margin:auto;
+}
+.CrossZeroTable-cell {
+
+  border: 1px solid #ff5a27;
+  width: 30px;
+  height: 30px;
+}
