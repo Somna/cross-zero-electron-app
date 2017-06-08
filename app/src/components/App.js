@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import logo from '../logo.svg';
 import './App.css';
 import CrossZeroTable from './CrossZeroTable';
+import Game from './Game'
 
 class App extends Component {
   render() {
@@ -14,7 +15,7 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
-        <CrossZeroTable/>
+        <Game/>
       </div>
     );
   }
